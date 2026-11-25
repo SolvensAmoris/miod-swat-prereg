@@ -7,11 +7,13 @@ Repository: https://github.com/SolvensAmoris/miod-swat-prereg
 
 ## Versions
 
-- **v2.1** (current) — `MIOD-SWAT-PREREG-V2.1.md`. Points 1, 3, 4, 6, 7 closed;
-  points 2, 5, 8, 9 pending before the P pilot.
-- **v2** — `MIOD-SWAT-PREREG-V2.md`. Complete protocol; superseded by v2.1.
-- **v1** — referenced as immutable history, but its text is not in this
-  repository yet. [VERIFICAR — add v1 text when available.]
+| Version | File | Status |
+|---|---|---|
+| V1-DRAFT | `prereg/V1.md` | Superseded. Never formally frozen. Known error preserved, not corrected in situ: cites 57.7/34.2 for "Lowest" (correct: 53.1/34.2). |
+| V2 | `prereg/V2.md` | Current. Corrects the V1 error in §3; adds three levels, reformulated step 0, F, H0–H4, 16-contrast family. |
+| V2.1 | `prereg/V2.1.md` | Current. Technical precision corrections on V2. |
+
+See `MANIFEST.md` for versions, relations, and the no-edit convention.
 
 ## Status
 
